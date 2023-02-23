@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-exercise-app/static/css/main.c8fe9b4d.css",
+    "main.js": "/my-exercise-app/static/js/main.46c732ef.js",
+    "static/js/787.90895c91.chunk.js": "/my-exercise-app/static/js/787.90895c91.chunk.js",
+    "index.html": "/my-exercise-app/index.html",
+    "main.c8fe9b4d.css.map": "/my-exercise-app/static/css/main.c8fe9b4d.css.map",
+    "main.46c732ef.js.map": "/my-exercise-app/static/js/main.46c732ef.js.map",
+    "787.90895c91.chunk.js.map": "/my-exercise-app/static/js/787.90895c91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8fe9b4d.css",
+    "static/js/main.46c732ef.js"
+  ]
+}
